@@ -12,7 +12,7 @@ This project performs **sentiment analysis** on Amazon product reviews using Nat
 
 ## 📁 Dataset
 
-- File: `Reviews.csv`
+- File: `https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download`
 - Columns used:
   - `Text`: The review text
   - `Score`: Star rating (1 to 5)
